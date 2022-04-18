@@ -2,8 +2,8 @@
 
 | Category                         | Number of Papers | Number of Codes |
 | -------------------------------- | ---------------- | --------------- |
-| Video Scene Graph                | 36               | 15              |
-| Video Object Grounding           | 54               | 18              |
+| Video Scene Graph                | 36               | 16             |
+| Video Object Grounding           |    54              | 16 |
 | Video Temporal Grounding[*TODO*] | -                | -               |
 
 
@@ -11,15 +11,15 @@
 ## 1.Video Scene Graph
 
 - 【Survey】TPAMI-22-Scene Graph Generation: A Comprehensive Survey[[paper]](https://arxiv.org/abs/2201.00443)
-- **[*]CVPR-22-Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs**[[paper]]()[[code]](https://github.com/Dawn-LX/VidSGG-BIG)
+- **[*]CVPR-22-Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs**[[paper]](https://arxiv.org/abs/2112.04222)[[code]](https://github.com/Dawn-LX/VidSGG-BIG)
 - AAAI-22-(2.5+1)D Spatio-Temporal Scene Graphs for Video Question Answering[[paper]](https://arxiv.org/pdf/2202.09277.pdf)
 - AAAI-22-Video as Conditional Graph Hierarchy for Multi-Granular Question Answering[[paper]](https://arxiv.org/abs/2112.06197)[[code]](https://github.com/doc-doc/hqga)
 - CVPR-21-Home Action Genome: Cooperative Compositional Action Understanding[[paper]](https://arxiv.org/abs/2105.05226)[[code]](https://github.com/nishantrai18/homage)
 - CVPR-21-Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.pdf)
 - CVPR-21-Representing Videos as Discriminative Sub-graphs for Action Recognition[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Representing_Videos_As_Discriminative_Sub-Graphs_for_Action_Recognition_CVPR_2021_paper.pdf)
 - CVPR-21-Graph-based High-order Relation Modeling for Long-term Action Recognition[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Graph-Based_High-Order_Relation_Modeling_for_Long-Term_Action_Recognition_CVPR_2021_paper.pdf)
-- **ICCV-21-Target adaptive context aggregation for video scene graph generation**[[paper]](http://openaccess.thecvf.com/content/ICCV2021/html/Teng_Target_Adaptive_Context_Aggregation_for_Video_Scene_Graph_Generation_ICCV_2021_paper.html)[[code]](https:// github.com/MCG-NJU/TRACE.)
-- **ICCV-21-Spatial-Temporal Transformer for Dynamic Scene Graph Generation**[[paper]](https://arxiv.org/abs/2107.12309)[[ppt]](https://youtu.be/6D3ExjQpbjQ)[[[code]](https://github.com/yrcong/STTran)
+- **ICCV-21-Target adaptive context aggregation for video scene graph generation** [[paper]](http://openaccess.thecvf.com/content/ICCV2021/html/Teng_Target_Adaptive_Context_Aggregation_for_Video_Scene_Graph_Generation_ICCV_2021_paper.html)[[code]](https://github.com/MCG-NJU/TRACE)
+- **ICCV-21-Spatial-Temporal Transformer for Dynamic Scene Graph Generation**[[paper]](https://arxiv.org/abs/2107.12309)[[ppt]](https://youtu.be/6D3ExjQpbjQ)[[code]](https://github.com/yrcong/STTran)
 - **ICCV-21-Detecting Human-Object Relationships in Videos**[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ji_Detecting_Human-Object_Relationships_in_Videos_ICCV_2021_paper.pdf)
 - MM-21-Spatio-Temporal Interaction Graph Parsing Networks for Human-Object Interaction Recognition[[paper]](https://arxiv.org/abs/2108.08633)
 - MM-21-Video Visual Relation Detection via Iterative Inference[[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475263)
@@ -29,7 +29,7 @@
 - **[*]CVPR-20-Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Where_Does_It_Exist_Spatio-Temporal_Video_Grounding_for_Multi-Form_Sentences_CVPR_2020_paper.pdf)[[ppt]](https://crossminds.ai/video/where-does-it-exist-spatio-temporal-video-grounding-for-multi-form-sentences-5f6e6eb1d81cf36f1a8e3024/)[[dataset]](https://github.com/Guaranteer/VidSTG-Dataset)[No plan to release code]
 - CVPR-20-Action Genome: Actions As Compositions of Spatio-Temporal Scene Graphs[[paper]](https://arxiv.org/abs/1912.06992) [[dataset]](https://www.actiongenome.org/#download)
 - CVPR-20-Spatio-Temporal Graph for Video Captioning with Knowledge Distillation[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf)[[Plan to release code]](https://github.com/StanfordVL/STGraph)
-- CVPR-20-Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) [[code]()]
+- CVPR-20-Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) 
 - CVPR-20-Ego-Topo: Environment Affordances From Egocentric Video[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nagarajan_Ego-Topo_Environment_Affordances_From_Egocentric_Video_CVPR_2020_paper.pdf) [[code]](https://github.com/facebookresearch/ego-topo) [[demo]](https://vision.cs.utexas.edu/projects/ego-topo/demo.html) [[talk]](https://www.youtube.com/watch?v=YTx4co3AIDY)
 - ECCV-20-Visual Relation Grounding in Videos [[paper]](https://arxiv.org/abs/2007.08814) [[code]](https://github.com/doc-doc/vRGV)
 - IJCAI-20-Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description [[paper]](https://www.ijcai.org/proceedings/2020/0131.pdf)
@@ -39,10 +39,9 @@
 - ICML-20-Compositional Video Synthesis with Action Graphs [[paper]](https://arxiv.org/abs/2006.15327)[[code]](https://github.com/roeiherz/AG2Video)
 - Arxiv-22-Video Is Graph: Structured Graph Module for Video Action Recognition [[paper]](https://arxiv.org/abs/2110.05904) 
 - Arxiv-21-Temporal Contrastive Graph Learning for Video Action Recognition and Retrieval [[paper]](https://arxiv.org/abs/2101.00820) [[code]](https://github.com/YangLiu9208/TCGL)
-- WACV-21-We don’t Need Thousand Proposals: Single Shot Actor-Action Detection in Videos [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Rana_We_Dont_Need_Thousand_Proposals_Single_Shot_Actor-Action_Detection_in_WACV_2021_paper.pdf) [[code]](https:
-  //github.com/aayushjr/ssa2d)
+- WACV-21-We don’t Need Thousand Proposals: Single Shot Actor-Action Detection in Videos [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Rana_We_Dont_Need_Thousand_Proposals_Single_Shot_Actor-Action_Detection_in_WACV_2021_paper.pdf) [[code]](https://github.com/aayushjr/ssa2d)
 - ICDAR-21-ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction Detection in Videos [[paper]](https://arxiv.org/abs/2105.11731) [[code]](https://github.com/coldmanck/VidHOI)
-- ICME-21-Spatial-Temporal Human-Object Interaction Detection [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428163) [[code]]()
+- ICME-21-Spatial-Temporal Human-Object Interaction Detection [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428163) 
 - TNNLS-21-What and When to Look?: Temporal Span Proposal Network for Video Visual Relation Detection [[paper]](https://arxiv.org/abs/2107.07154) [[code]](https://github.com/sangminwoo/Temporal-Span-Proposal-Network-VidVRD)
 - Neurocomputing-21-3-D Relation Network for visual relation recognition in videos [[paper]](https://www.sciencedirect.com/science/article/pii/S0925231220319299)
 - ICMR-20-Human Object Interaction Detection via Multi-level Conditioned Network [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390671)
@@ -65,7 +64,7 @@
 - CVPR-21-Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark [[paper]](https://arxiv.org/abs/2103.16746) [[code]](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)
 - CVPR-21-Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos [[paper]](https://arxiv.org/abs/2103.12346) [[code]](https://github.com/SijieSong/CVPR21-Cogrounding_semantic_attention)
 - CVPR-21-Improving Weakly Supervised Visual Grounding by Contrastive Knowledge Distillation [[paper]](https://arxiv.org/abs/2007.01951) [[code]](https://github.com/JingHuang81/weak-sup-visual-grounding)
-- CVPR-21-Scene-Intuitive Agent for Remote Embodied Visual Grounding [[paper]](https://arxiv.org/abs/2103.12944) [[code]]()
+- CVPR-21-Scene-Intuitive Agent for Remote Embodied Visual Grounding [[paper]](https://arxiv.org/abs/2103.12944) 
 - CVPR-21-Iterative Shrinking for Referring Expression Grounding Using Deep Reinforcement Learning[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Iterative_Shrinking_for_Referring_Expression_Grounding_Using_Deep_Reinforcement_Learning_CVPR_2021_paper.html) [[code]](https://github.com/insomnia94/ISREG)
 - ICCV-21-STVGBert: A Visual-Linguistic Transformer Based Framework for Spatio-Temporal Video Grounding [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_STVGBert_A_Visual-Linguistic_Transformer_Based_Framework_for_Spatio-Temporal_Video_Grounding_ICCV_2021_paper.pdf)
 - **ICCV-21-Weakly Supervised Human-Object Interaction Detection in Video via Contrastive Spatiotemporal Regions** [[paper]](https://arxiv.org/abs/2110.03562) [[code]](https://github.com/ShuangLI59/weakly-supervised-human-object-detection-video) [[dataset]](https://shuangli-project.github.io/weakly-supervised-human-object-detection-video/)
@@ -79,7 +78,7 @@
 - IJCAI-20-Object-Aware Multi-Branch Relation Networks for Spatio-Temporal Video Grounding [[paper]](https://arxiv.org/abs/2008.06941)
 - IJCAI-20-Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description.[[paper]](https://www.ijcai.org/Proceedings/2020/0131.pdf)
 - MM-20-Weakly-Supervised Video Object Grounding by Exploring Spatio-Temporal Contexts [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413610)
-- **MM-20-Activity-driven Weakly-Supervised Spatio-Temporal Grounding from Untrimmed Videos** [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413614) [[code]]()
+- **MM-20-Activity-driven Weakly-Supervised Spatio-Temporal Grounding from Untrimmed Videos** [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413614) 
 - MM-20-AsyNCE: Disentangling False-Positives for Weakly-Supervised Video Grounding [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3481539) 
 - **MM-20-Relational Graph Learning for Grounded Video Description Generation** [[paper]](https://dl.acm.org/doi/10.1145/3394171.3413746) 
 - TPAMI-21-Natural Language Video Localization: A Revisit in Span-based Question Answering Framework [[paper]](https://arxiv.org/pdf/2102.13558) 
@@ -87,7 +86,7 @@
 - TMM-21-Weakly Supervised Temporal Adjacent Network for Language Grounding [[paper]](https://github.com/ycWang9725/WSTAN) [[code]](https://github.com/ycWang9725/WSTAN)
 - TCSVT-20-Grounding-Tracking-Integration [[paper]](https://arxiv.org/abs/1912.06316)[[dataset]](https://zyang-ur.github.io/gti/LaSOT_updated.csv) [[demo]](https://www.youtube.com/watch?v=Hex4_UElaS8)
 - Arxiv-22-Multi-Scale Self-Contrastive Learning with Hard Negative Mining for Weakly-Supervised Query-based Video Grounding [[paper]](https://arxiv.org/abs/2203.03838) 
-- Arxiv-22-Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding [[paper]](Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding)
+- Arxiv-22-Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding [[paper]](https://arxiv.org/abs/2203.02966)
 - Arxiv-22-End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding [[paper]](https://arxiv.org/abs/2203.08013)
 - Arxiv-22-Explore and Match: End-to-End Video Grounding with Transformer[[paper]](https://arxiv.org/abs/2201.10168)
 - Arxiv-22-Learning Sample Importance for Cross-Scenario Video Temporal Grounding [[paper]](https://arxiv.org/abs/2201.02848) 
@@ -223,4 +222,5 @@
 - NIPS-21-Low-Fidelity Video Encoder Optimization for Temporal Action Localization
 
   
+
 
