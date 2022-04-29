@@ -86,6 +86,7 @@
 - TCSVT-21-Human-centric Spatio-Temporal Video Grounding With Visual Transformers [[paper]](https://arxiv.org/abs/2011.05049) [[dataset]](https://github.com/tzhhhh123/HC-STVG)
 - TMM-21-Weakly Supervised Temporal Adjacent Network for Language Grounding [[paper]](https://github.com/ycWang9725/WSTAN) [[code]](https://github.com/ycWang9725/WSTAN)
 - TCSVT-20-Grounding-Tracking-Integration [[paper]](https://arxiv.org/abs/1912.06316)[[dataset]](https://zyang-ur.github.io/gti/LaSOT_updated.csv) [[demo]](https://www.youtube.com/watch?v=Hex4_UElaS8)
+- PR-21-Weakly-supervised video object localization with attentive spatio-temporal correlation[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865521000775)
 - Arxiv-22-Multi-Scale Self-Contrastive Learning with Hard Negative Mining for Weakly-Supervised Query-based Video Grounding [[paper]](https://arxiv.org/abs/2203.03838) 
 - Arxiv-22-Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding [[paper]](https://arxiv.org/abs/2203.02966)
 - Arxiv-22-End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding [[paper]](https://arxiv.org/abs/2203.08013)
