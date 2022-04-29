@@ -74,6 +74,7 @@
 - **[*]NIPS-20-Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding** [[paper]](https://papers.nips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf) 
 - CVPR-20-Video Object Grounding Using Semantic Roles in Language Description [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sadhu_Video_Object_Grounding_Using_Semantic_Roles_in_Language_Description_CVPR_2020_paper.pdf) [[code]](https://github.com/TheShadow29/vognet-pytorch)
 - CVPR-20-Dense Regression Network for Video Grounding [[paper]](https://arxiv.org/abs/2004.03545)[[code]](https://github.com/Alvin-Zeng/DRN)
+- ACL-20-BiST: Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues [[paper]](https://arxiv.org/abs/2010.10095) [[code]](https://github.com/salesforce/BiST)
 - ECCV-20-Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video [[paper]](https://arxiv.org/abs/1911.10967) [[code]](https://github.com/2020aptx4869lm/Forecasting-Human-Object-Interaction-in-FPV)
 - IJCAI-20-Object-Aware Multi-Branch Relation Networks for Spatio-Temporal Video Grounding [[paper]](https://arxiv.org/abs/2008.06941)
 - IJCAI-20-Hierarchical Attention Based Spatial-Temporal Graph-to-Sequence Learning for Grounded Video Description.[[paper]](https://www.ijcai.org/Proceedings/2020/0131.pdf)
